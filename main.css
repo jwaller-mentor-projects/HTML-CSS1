@@ -1,0 +1,11 @@
+.top {
+  height: 25px;
+  width: 25px;
+  background-color: red;
+  margin-bottom: 10px;
+}
+
+.text {
+  color: green;
+  margin: 10px;
+}
